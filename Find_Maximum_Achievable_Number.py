@@ -6,3 +6,4 @@ class Solution:
         x = 0
         x = x + (num + t)
         return x
+
